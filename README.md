@@ -359,4 +359,4 @@ MIT License - Free to use and modify.
 
 ## 👤 Author
 
-**LordDzik** - [@LordDzik](https://t.me/LordDzik)
+**alannxd** - [@alannxd](https://t.me/alannxd)
